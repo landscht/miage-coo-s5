@@ -1,0 +1,18 @@
+Comment s'appelle le loup de Jon Snow ?
+MultipleChoicesAnswer Fantôme/Croc-Blanc/Snoopy/Drogon
+1
+Jon Snow est il mort durant la série ?
+YesNoAnswer oui
+1
+Quel chanteur célébre à fait une apparition dans la série ?
+TextAnswer Ed sheeran
+1
+Nommez un dragon de Daenerys ?
+MultiAnswer Drogon;Viserion;Rhaegal
+1
+Combien Daenerys a t-elle de dragon ?
+NumericalAnswer 3
+1
+Combien de rois sont engagés dans la guerre qui suit la mort de Robert Baratheon ?
+NumericalAnswer 5
+1

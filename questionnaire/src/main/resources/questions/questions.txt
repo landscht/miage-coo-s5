@@ -1,0 +1,15 @@
+C'est quoi la capitale de la France ?
+TextAnswer Paris
+1
+La France a t-elle gagné la coupe du monde en 1998 ?
+YesNoAnswer oui
+2
+Combien font 4+4 ?
+NumericalAnswer 8
+2
+Donnez un des jours de la semaine ?
+MultiAnswer lundi;mardi;mercredi;jeudi;vendredi;samedi;dimanche
+1
+En quelle année la France à gagné sa deuxième coupe du monde ?
+MultipleChoicesAnswer 2018/2006/2010/2016
+2
